@@ -1,1 +1,11 @@
 C:\Users\cody\Documents\GitHub\Final-Project\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\cody\Documents\GitHub\Final-Project\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\cody\Documents\GitHub\Final-Project\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\cody\Documents\GitHub\Final-Project\Hangman\Hangman\bin\Debug\Hangman.xml
+C:\Users\cody\Documents\GitHub\Final-Project\Hangman\Hangman\obj\Debug\Hangman.frmStartScreen.resources
+C:\Users\cody\Documents\GitHub\Final-Project\Hangman\Hangman\obj\Debug\Hangman.frmGame.resources
+C:\Users\cody\Documents\GitHub\Final-Project\Hangman\Hangman\obj\Debug\Hangman.Resources.resources
+C:\Users\cody\Documents\GitHub\Final-Project\Hangman\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.Cache
+C:\Users\cody\Documents\GitHub\Final-Project\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\cody\Documents\GitHub\Final-Project\Hangman\Hangman\obj\Debug\Hangman.xml
+C:\Users\cody\Documents\GitHub\Final-Project\Hangman\Hangman\obj\Debug\Hangman.pdb

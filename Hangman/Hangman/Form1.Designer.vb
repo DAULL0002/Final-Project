@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form1
+Partial Class frmStartScreen
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -55,7 +55,7 @@ Partial Class Form1
         Me.btnTwoPlayers.Text = "Two Players"
         Me.btnTwoPlayers.UseVisualStyleBackColor = True
         '
-        'Form1
+        'frmStartScreen
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -63,7 +63,7 @@ Partial Class Form1
         Me.Controls.Add(Me.btnTwoPlayers)
         Me.Controls.Add(Me.btnOnePlayer)
         Me.Controls.Add(Me.Label1)
-        Me.Name = "Form1"
+        Me.Name = "frmStartScreen"
         Me.Text = "Hangman"
         Me.ResumeLayout(False)
         Me.PerformLayout()
