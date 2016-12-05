@@ -25,6 +25,8 @@ Partial Class frmStartScreen
         Me.Label1 = New System.Windows.Forms.Label()
         Me.btnOnePlayer = New System.Windows.Forms.Button()
         Me.btnTwoPlayers = New System.Windows.Forms.Button()
+        Me.btnSeries = New System.Windows.Forms.Button()
+        Me.btnHighScore = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label1
@@ -43,7 +45,7 @@ Partial Class frmStartScreen
         Me.btnOnePlayer.Name = "btnOnePlayer"
         Me.btnOnePlayer.Size = New System.Drawing.Size(254, 70)
         Me.btnOnePlayer.TabIndex = 1
-        Me.btnOnePlayer.Text = "One Player"
+        Me.btnOnePlayer.Text = "One Player (Single Game)"
         Me.btnOnePlayer.UseVisualStyleBackColor = True
         '
         'btnTwoPlayers
@@ -55,11 +57,31 @@ Partial Class frmStartScreen
         Me.btnTwoPlayers.Text = "Two Players"
         Me.btnTwoPlayers.UseVisualStyleBackColor = True
         '
+        'btnSeries
+        '
+        Me.btnSeries.Location = New System.Drawing.Point(59, 298)
+        Me.btnSeries.Name = "btnSeries"
+        Me.btnSeries.Size = New System.Drawing.Size(254, 70)
+        Me.btnSeries.TabIndex = 3
+        Me.btnSeries.Text = "One Player (Series)"
+        Me.btnSeries.UseVisualStyleBackColor = True
+        '
+        'btnHighScore
+        '
+        Me.btnHighScore.Location = New System.Drawing.Point(319, 298)
+        Me.btnHighScore.Name = "btnHighScore"
+        Me.btnHighScore.Size = New System.Drawing.Size(254, 70)
+        Me.btnHighScore.TabIndex = 4
+        Me.btnHighScore.Text = "View High Score"
+        Me.btnHighScore.UseVisualStyleBackColor = True
+        '
         'frmStartScreen
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(629, 380)
+        Me.Controls.Add(Me.btnHighScore)
+        Me.Controls.Add(Me.btnSeries)
         Me.Controls.Add(Me.btnTwoPlayers)
         Me.Controls.Add(Me.btnOnePlayer)
         Me.Controls.Add(Me.Label1)
@@ -72,5 +94,7 @@ Partial Class frmStartScreen
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents btnOnePlayer As System.Windows.Forms.Button
     Friend WithEvents btnTwoPlayers As System.Windows.Forms.Button
+    Friend WithEvents btnSeries As System.Windows.Forms.Button
+    Friend WithEvents btnHighScore As System.Windows.Forms.Button
 
 End Class
