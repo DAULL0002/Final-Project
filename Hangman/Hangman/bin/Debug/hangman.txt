@@ -78,8 +78,8 @@ Chenille Tapestry Pillow
 Chic Decor
 Christmas Wreath
 Circuit Breaker
-Citrus- Scented Candle
-Citrus- Scented Moisturizer
+Citrus-Scented Candle
+Citrus-Scented Moisturizer
 Clawfoot Bathtub
 Clean Kitchen Sink
 Coat Hooks
@@ -159,7 +159,7 @@ Family Portrait
 Fancy Cloth Napkins
 Fancy White Cloth Napkins
 Fine China
-Fireplace Mantel Donned In Tinsel
+Fireplace Mantle Donned In Tinsel
 Fireplace Mantle
 Fireplace Poker
 Firm Pillows
@@ -182,7 +182,7 @@ Full-Length Bathrobe
 Full-Length Mirror
 Fully-Equipped Kitchen
 Fuzzy Slippers
-Garage- Door Opener
+Garage-Door Opener
 Garbage Bag Twist Ties
 Garden Gnomes
 Garden Hammock
@@ -207,7 +207,7 @@ Hair Dryer
 Hair Gel
 Hair Ribbons
 Halogen Lamp
-Hand- Held Showerhead
+Hand-Held Showerhead
 Hand Lotion
 Hand Sanitizer
 Handblown Crystal Wine Glasses
@@ -288,7 +288,7 @@ Makeup Remover
 Matching Couch & Love Seat
 Memo Pad
 Memo Pad And Pencil
-Memory- Foam Pet Mat
+Memory-Foam Pet Mat
 Mesh Laundry Bag
 Metal Bookshelf
 Metal Watering Can
@@ -398,7 +398,7 @@ Skin Care Products
 Skin Cream
 Skin Moisturizer
 Sliding Glass Doors
-Sliding- Mirrored Doors
+Sliding-Mirrored Doors
 Snowblower
 Soap Dish
 Soap On A Rope
@@ -476,7 +476,7 @@ Twin Beds
 Two-Drawer Nightstand
 Upholstered Furniture
 Upright Vacuum Cleaner
-Upside- Down Tomato Planter
+Upside-Down Tomato Planter
 Utensil Drawer
 Vacuum Cleaner
 Vacuum Cleaner Bag
@@ -544,7 +544,7 @@ Alexander The Great Britain
 Alexander The Great Smoky Mountains
 All For One And One For All In The Family
 All Rise For The Queen Bee
-All Roads Lead To Rome Wasn'T Built In A Day
+All Roads Lead To Rome Wasn't Built In A Day
 Almond Joy Behar
 American Express Yourself
 America'S Next Top Model Train Set
@@ -554,7 +554,7 @@ Athlete'S Foot Soldier
 Audio Clip Art
 Baby On Board Of Directors
 Bacon Slice Of Pie
-Baking From Scratch  N Sniff
+Baking From Scratch 'N' Sniff
 Baking Powder Puff
 Balance Of Power Mower
 Banana Split Personality
@@ -583,7 +583,7 @@ Boom Box Of Chocolates
 Brass Button Your Lip
 Bridal Party Like A Rock Star
 Brigham Young At Heart
-Brisk Walk Don T Run
+Brisk Walk Don' T Run
 Built On Solid Ground Beef
 Bull In A China Shop Til You Drop
 Bulletin Board Game
@@ -739,7 +739,7 @@ Homecoming Queen Elizabeth
 Honda Civic Duty
 Honest Opinion Poll
 Honeymoon Cottage Cheese
-I M Done Deal
+I' M Done Deal
 Ice Cube Steak
 Ice Pick Your Battles
 Impound Yard Sale
@@ -819,7 +819,7 @@ Madame Butterfly Net
 Made From Scratch My Back
 Magazine Rack Of Lamb
 Maiden Name Brand
-Man S Best Friend Of The Family
+Man' S Best Friend Of The Family
 Martin Lawrence Of Arabia
 Master Bedroom Slippers
 Master Key Largo
@@ -1037,7 +1037,7 @@ The Check Is In The Mail Order Catalog
 The Coast Is Clear As A Bell
 The Dark Knight In Shining Armor
 The Doctor Will See You Now Or Never
-The Earth S Crust Of Bread
+The Earth' S Crust Of Bread
 The Feeling Is Mutual Benefit
 The Feeling Is Mutual Fund
 The Good The Bad & The Ugly Duckling
@@ -1110,7 +1110,7 @@ Wooden Hanger Steak
 World Cup Of Joe
 World Cup Of Tea
 Would You Like Paper Or Plastic Surgery
-Writer S Block Party
+Writer' S Block Party
 Yacht Club Sandwich
 Yellow Squash The Competition
 You Are What You Eat Your Heart Out
@@ -1391,7 +1391,7 @@ A Trip To Roswell New Mexico
 A Trip To The Big Island			
 A Trip To The Career Placement Office			
 A Trip To The Four Corners Area			
-A Trip To The Georgia O Keeffe Museum			
+A Trip To The Georgia O' Keeffe Museum			
 A Trip To The Island Of Kotlin			
 A Trip To The Petrified Forrest			
 A Trip To The Snow-Covered Andes			
@@ -1455,7 +1455,7 @@ Autumn Harvest
 Awards Banquet			
 Awesome Birthday Party			
 Baby Shower			
-Baby S First Birthday Party			
+Baby' S First Birthday Party			
 Bachelor Party			
 Bachelorette Party			
 Back-To-School Shopping			
@@ -1504,7 +1504,7 @@ Book Fair
 Boring Lecture			
 Bowling A Perfect Game			
 Boxing Match			
-Boys Night Out			
+Boys' Night Out			
 Brainstorming Session			
 Bravo! Vail Valley Music Festival			
 Breakfast Lunch & Dinner			
@@ -1917,7 +1917,7 @@ Maiden Voyage
 Mailing In Your Taxes Just Before Midnight			
 Major Overhaul			
 Major Renovation			
-Making S Mores			
+Making S' Mores			
 Marathon Dance Contest			
 March Madness			
 March Seventeenth			
@@ -1952,7 +1952,7 @@ Moonlight Float Trip
 Morning Commute			
 Morning Recess			
 Morning Snack Time			
-Mother S Day Sale			
+Mother' S Day Sale			
 Mother's Day			
 Motor Rally			
 Moving Day			
@@ -1978,7 +1978,7 @@ National Reading Month
 Nationwide Survey			
 Naval Victory			
 New Hampshire Primary			
-New Year S Celebration			
+New Year' S Celebration			
 New Years Eve			
 New Year's Eve			
 New Year's Eve Ball Drop In Times Square			
@@ -2010,7 +2010,7 @@ Orange Bowl
 Organized Excursion			
 Outdoor Cinema			
 Outdoor Concert			
-Outdoor Concert In Sultan S Pool			
+Outdoor Concert In Sultan' S Pool			
 Outdoor Concerts			
 Outdoor Tea Party			
 Outlet Shopping			
@@ -2597,7 +2597,7 @@ Marge Simpson
 Marmaduke			
 Maxwell Smart			
 Meadow And Aj Soprano			
-Meg Murry & Calvin O Keefe			
+Meg Murry & Calvin O' Keefe			
 Mickey & Minnie Mouse			
 Mickey Mouse			
 Mighty Mouse			
@@ -3239,7 +3239,7 @@ Chips & Guacamole
 Chips & Salsa			
 Chips And Spicy Salsa			
 Chive Dumplings In Brown Butter			
-Chocolate - Dipped Frozen Banana			
+Chocolate -Dipped Frozen Banana			
 Chocolate Angel Food Cake			
 Chocolate Bar			
 Chocolate Brownies With Walnuts			
@@ -3446,7 +3446,7 @@ Elegant Pumpkin-Walnut Layered Pie
 Empanadas			
 Enchiladas Verdes			
 Energy Drink			
-England S Barratt Refreshers			
+England' S Barratt Refreshers			
 English Muffin With Raspberry Jam			
 English Toffee			
 Epicurean Treats			
@@ -4068,7 +4068,7 @@ Empire State Building
 Eurovea			
 Fenway Park			
 Fisk University			
-Florence S Duomo			
+Florence' S Duomo			
 Flower Dome			
 Folsom Street			
 Fort Denison			
@@ -4207,7 +4207,7 @@ Sistine Chapel
 Smith Center For The Performing Arts			
 South Florida Museum			
 Spectacular Shark Bay
-St. Kevin S Church			
+St. Kevin' S Church			
 Staples Center			
 Statue Of Liberty			
 Stonehenge			
@@ -5598,7 +5598,7 @@ Goof-Proof
 Green Bean			
 Ground Round			
 Gruesome Twosome			
-Hanky- Panky			
+Hanky-Panky			
 Henny Penny			
 Here And There			
 Hocus-Pocus			
@@ -5607,7 +5607,7 @@ Hot Shot
 Hotshot			
 How Now Brown Cow			
 Hurdy-Gurdy			
-Hurly- Burly			
+Hurly-Burly			
 Hustle And Bustle			
 Ill Will			
 In Like Flynn			
@@ -5631,7 +5631,7 @@ Nice Price
 No Muss No Fuss			
 No Pain No Gain			
 Okey-Dokey			
-One- Stop Shop			
+One-Stop Shop			
 One Two Buckle My Shoe			
 Oodles Of Noodles			
 Ooky Spooky			
@@ -5644,7 +5644,7 @@ Play Tray
 Pop The Top			
 Pray Tray			
 Quick Picks			
-Razzle- Dazzle			
+Razzle-Dazzle			
 Razzle-Dazzle			
 Razzmatazz			
 Real Deal			
@@ -5748,7 +5748,7 @@ Baby & Afternoon Shower
 Baby & April Shower			
 Baby & Hall Monitor			
 Baked And Exported Goods			
-Baker S & Dirty Dozen			
+Baker' S & Dirty Dozen			
 Baking & Baby Powder			
 Baking & Diet Soda			
 Ballot & Suggestion Box			
@@ -5760,7 +5760,7 @@ Baseball & Winter Season
 Basic & Potty Training			
 Bass & Treble Clef			
 Bear & Bull Market			
-Beautiful Baby S Breath Bouquet			
+Beautiful Baby' S Breath Bouquet			
 Beaver & Meat Cleaver			
 Bermuda & Short Shorts			
 Bills Of & Voting Rights			
@@ -5872,7 +5872,7 @@ Kit & Swift Fox
 Late And Swing Shift			
 Leather & Yellow Jacket			
 Legislative & Tree Branch			
-Lettuce & That S A Wrap			
+Lettuce & That' S A Wrap			
 Long Grain & Wild Rice			
 Love Me & Legal Tender			
 Lunch & Milk Money			
@@ -6153,7 +6153,7 @@ Complicated By Avril Lavigne
 Cop Car By Sam Hunt			
 Crazy Arms By Ray Price			
 Delirious By Prince			
-Elton John S Goodbye Yellow Brick Road			
+Elton John' S Goodbye Yellow Brick Road			
 Exchange By Bryson Tiller			
 Fields Of Gold By Sting			
 Floriday's By Jimmy Buffett			
@@ -6165,7 +6165,7 @@ Hey Nineteen By Steely Dan
 Higher By Creed			
 Hot Stuff By Donna Summer			
 I Am The Walrus By The Beatles			
-I Think We Re Alone Now By Tiffany			
+I Think We' Re Alone Now By Tiffany			
 If I Had A Boat By Lyle Lovett			
 In The Summertime By Mungo Jerry			
 It'S Not Unusual By Tom Jones			

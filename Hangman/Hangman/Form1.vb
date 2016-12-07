@@ -3,8 +3,8 @@
     Public twoPlayer As Boolean
 
     Private Sub btnOnePlayer_Click(sender As Object, e As EventArgs) Handles btnOnePlayer.Click
-        
-        frmGame.ShowDialog()
+        Me.Hide()
+        frmGame.Show()
     End Sub
 
     Private Sub btnTwoPlayers_Click(sender As Object, e As EventArgs) Handles btnTwoPlayers.Click
@@ -14,14 +14,14 @@
         category = InputBox("Type in the category of your phrase (e.g. movie titles).")
         frmGame.lblCategory.Text = category
         Me.Hide()
-        frmGame.ShowDialog()
+        frmGame.Show()
     End Sub
 
     Public series As Boolean
     Private Sub btnSeries_Click(sender As Object, e As EventArgs) Handles btnSeries.Click
         series = True
         Me.Hide()
-        frmGame.ShowDialog()
+        frmGame.Show()
 
     End Sub
 

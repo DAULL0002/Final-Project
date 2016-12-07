@@ -26,9 +26,18 @@
                 If completedWord = True And frmStartScreen.series = False Then
                     MsgBox("You win.")
                     If MsgBox("Would you like to play again?", MsgBoxStyle.YesNo) = MsgBoxResult.Yes Then
+                        If frmStartScreen.twoPlayer = True Then
+                            Dim category As String
+                            phrase = InputBox("Type in the phrase that you want the other player to guess.")
+                            category = InputBox("Type in the category of your phrase (e.g. movie titles).")
+                            lblCategory.Text = category
+                        End If
                         newGame()
                     Else
-                        End
+                        Me.Close()
+                        frmStartScreen.Show()
+                        frmStartScreen.twoPlayer = False
+                        frmStartScreen.series = False
                     End If
                 ElseIf completedWord = True Then
                     gamesWon += 1
@@ -178,8 +187,10 @@
             lblLetter(x).Font = New Font("Times New Roman", 14, FontStyle.Bold)
             lblLetter(x).AutoSize = True
 
-            If Asc(letter) < 65 Or Asc(letter) > 122 Or (Asc(letter) < 97 And Asc(letter) > 90) Then
+            If ((Asc(letter) < 65 Or Asc(letter) > 122) Or (Asc(letter) < 97 And Asc(letter) > 90)) And Asc(letter) <> 38 Then
                 lblLetter(x).Text = letter
+            ElseIf Asc(letter) = 38 Then
+                lblLetter(x).Text = "&&"
             Else
                 lblLetter(x).Text = "_"
             End If
@@ -251,12 +262,22 @@
             End If
             PictureBox1.Image = Image.FromFile("Hanged_Man.png")
             If MsgBox("Would you like to play again?", MsgBoxStyle.YesNo) = MsgBoxResult.Yes Then
+                If frmStartScreen.twoPlayer = True Then
+                    Dim category As String
+                    phrase = InputBox("Type in the phrase that you want the other player to guess.")
+                    category = InputBox("Type in the category of your phrase (e.g. movie titles).")
+                    lblCategory.Text = category
+                End If
                 gamesWon = 0
                 incorrectGuesses = 0
                 PictureBox1.Image = Image.FromFile("Gallows.png")
                 newGame()
             Else
-                End
+                Me.Close()
+
+                frmStartScreen.Show()
+                frmStartScreen.twoPlayer = False
+                frmStartScreen.series = False
             End If
         End If
     End Sub
