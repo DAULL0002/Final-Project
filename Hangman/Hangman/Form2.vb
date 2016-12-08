@@ -194,6 +194,8 @@
             Else
                 lblLetter(x).Text = "_"
             End If
+
+            'Creates a second line if the phrase is too big to be seen
             If Asc(letter) = 32 Then
                 wordCount += 1
                 If (words(wordCount).Length * 20) + (words(wordCount).Length * 1.5) + lblLetter(x - 1).Left > 644 Then
@@ -220,15 +222,15 @@
 
             Me.Controls.Add(lblLetter(x))
         Next
-
-        'Test to make sure program works correctly (to be removed before final program)
-        MsgBox(phrase)
     End Sub
 
     Sub drawStickMan()
         PictureBox1.Image = Image.FromFile("Wrong_Guess_" & incorrectGuesses & ".png")
         If incorrectGuesses = 6 Then
             MsgBox("You lost.")
+            For x = 1 To phraseLength
+                lblLetter(x).Text = phrase.Substring(x - 1, 1)
+            Next
             If frmStartScreen.series = True Then
                 If IO.File.Exists("High_Score.txt") Then
                     Dim sr As IO.StreamReader = IO.File.OpenText("High_Score.txt")
@@ -281,4 +283,5 @@
             End If
         End If
     End Sub
+
 End Class
